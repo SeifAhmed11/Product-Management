@@ -1,0 +1,21 @@
+.mat-mdc-paginator .mat-mdc-paginator-container {
+  justify-content: flex-start !important;
+}
+
+.snack-error .mdc-snackbar__surface {
+  background-color: #c62828 !important;
+  color: #fff !important;
+}
+.snack-success .mdc-snackbar__surface {
+  background-color: #2e7d32 !important; 
+  color: #fff !important;
+}
+
+.cdk-overlay-container .cdk-global-overlay-wrapper {
+  align-items: flex-start !important;
+  justify-content: flex-end !important;
+}
+.cdk-overlay-container .cdk-overlay-pane {
+  margin-top: 12px;
+  margin-right: 12px;
+}

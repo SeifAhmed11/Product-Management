@@ -1,0 +1,15 @@
+D:\Product Management\ProductManagement\ProductManagement.Application\obj\Debug\net8.0\ProductManagement.Application.csproj.AssemblyReference.cache
+D:\Product Management\ProductManagement\ProductManagement.Application\obj\Debug\net8.0\ProductManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Product Management\ProductManagement\ProductManagement.Application\obj\Debug\net8.0\ProductManagement.Application.AssemblyInfoInputs.cache
+D:\Product Management\ProductManagement\ProductManagement.Application\obj\Debug\net8.0\ProductManagement.Application.AssemblyInfo.cs
+D:\Product Management\ProductManagement\ProductManagement.Application\obj\Debug\net8.0\ProductManagement.Application.csproj.CoreCompileInputs.cache
+D:\Product Management\ProductManagement\ProductManagement.Application\bin\Debug\net8.0\ProductManagement.Application.deps.json
+D:\Product Management\ProductManagement\ProductManagement.Application\bin\Debug\net8.0\ProductManagement.Application.dll
+D:\Product Management\ProductManagement\ProductManagement.Application\bin\Debug\net8.0\ProductManagement.Application.pdb
+D:\Product Management\ProductManagement\ProductManagement.Application\bin\Debug\net8.0\ProductManagement.Domain.dll
+D:\Product Management\ProductManagement\ProductManagement.Application\bin\Debug\net8.0\ProductManagement.Domain.pdb
+D:\Product Management\ProductManagement\ProductManagement.Application\obj\Debug\net8.0\ProductM.070BD2B7.Up2Date
+D:\Product Management\ProductManagement\ProductManagement.Application\obj\Debug\net8.0\ProductManagement.Application.dll
+D:\Product Management\ProductManagement\ProductManagement.Application\obj\Debug\net8.0\refint\ProductManagement.Application.dll
+D:\Product Management\ProductManagement\ProductManagement.Application\obj\Debug\net8.0\ProductManagement.Application.pdb
+D:\Product Management\ProductManagement\ProductManagement.Application\obj\Debug\net8.0\ref\ProductManagement.Application.dll

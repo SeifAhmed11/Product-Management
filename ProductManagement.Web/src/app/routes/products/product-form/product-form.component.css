@@ -1,0 +1,17 @@
+form {
+  display: block;
+}
+
+mat-form-field {
+  width: 100%;
+  display: block;
+  margin-bottom: 12px;
+}
+
+textarea[matinput] { min-height: 100px; }
+
+.actions {
+  display: flex;
+  gap: 12px;
+}
+
