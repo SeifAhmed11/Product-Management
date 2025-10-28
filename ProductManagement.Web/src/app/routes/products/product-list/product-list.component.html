@@ -1,10 +1,11 @@
-<mat-toolbar color="primary" style="margin-bottom:12px;">
+<mat-toolbar color="primary" style="margin-bottom:12px; border-radius:8px;">
   <span>Products</span>
   <span class="spacer"></span>
-  <button mat-icon-button (click)="exportCsv()" matTooltip="Export CSV">
+  <button mat-stroked-button color="accent" (click)="exportCsv()">
     <mat-icon>file_download</mat-icon>
+    CSV
   </button>
-  <button mat-raised-button color="accent" (click)="add()">
+  <button mat-raised-button color="accent" (click)="add()" style="margin-left:8px;">
     <mat-icon>add</mat-icon>
     Add Product
   </button>
@@ -27,7 +28,7 @@
   </div>
 </mat-card>
 
-<table mat-table [dataSource]="data" class="mat-elevation-z1" style="width:100%;">
+<table mat-table [dataSource]="data" class="mat-elevation-z2" style="width:100%; border-radius:8px; overflow:hidden;">
   <ng-container matColumnDef="id">
     <th mat-header-cell *matHeaderCellDef> Id </th>
     <td mat-cell *matCellDef="let row"> {{row.id}} </td>
